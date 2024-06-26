@@ -1,14 +1,15 @@
 None
+None
 Satan
 Lucifer
-
+Deity Jack Frost (Dummy)
 Dagda
-
-
+Deity Jack Frost (Dummy)
+Deity Jack Frost (Dummy)
 Khonsu
 Zeus
 Odin
-
+Deity Jack Frost (Dummy)
 Mitra
 Atavaka
 Horus
@@ -16,7 +17,7 @@ Thoth
 Khonsu Ra
 Vishnu
 Baal
-
+Deity Jack Frost (Dummy)
 Demeter
 Anahita
 Lakshmi
@@ -31,13 +32,13 @@ Fortuna
 Maria
 Artemis
 Konohana Sakuya
-
+Megami Jack Frost (Dummy)
 Hanuman
 Fionn Mac Cumhaill
 Cu Chulainn
 Kurama Tengu
 Amanozako
-
+Genma amanozako_runaway
 Kresnik
 Anansi
 Koppa Tengu
@@ -46,9 +47,9 @@ Agathion
 Mandrake
 Dis
 Efreet
-
-
-
+Genma Jack Frost (Dummy)
+Genma Jack Frost (Dummy)
+Genma Jack Frost (Dummy)
 Titania
 Oberon
 Silky
@@ -59,9 +60,9 @@ JackO'Lantern
 Jack Frost
 Pixie
 Nahobeeho
-
-
-
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
 Queen Medb
 Succubus
 Kaiwan
@@ -69,10 +70,10 @@ Lilim
 Incubus
 Mokoi
 Sandman
-
+Night lilith
 Black Frost
-
-
+Night Jack Frost (Dummy)
+Night Jack Frost (Dummy)
 Nuwa (Normal)
 Amon
 Mara
@@ -88,10 +89,10 @@ Belphegor
 King Frost
 Mithras
 Loki
-
-
-
-
+Tyrant Jack Frost (Dummy)
+Tyrant Jack Frost (Dummy)
+Tyrant Jack Frost (Dummy)
+Tyrant Jack Frost (Dummy)
 Huang Long
 Quetzalcoatl
 Qing Long
@@ -99,16 +100,16 @@ Xuanwu
 Ananta
 Vritra
 Nyami Nyami
-
-
+Dragon Jack Frost (Dummy)
+Dragon Jack Frost (Dummy)
 YamataNoOrochi
 Naga Raja
 Yurlungur
 Naga
 Nozuchi
 Vouivre
-
-
+Snake Jack Frost (Dummy)
+Snake Jack Frost (Dummy)
 Vasuki
 Seth
 Basilisk
@@ -121,17 +122,17 @@ Barong
 Anubis
 Makami
 Xiezhai
-
-
-
+Avatar Jack Frost (Dummy)
+Avatar Jack Frost (Dummy)
+Avatar Jack Frost (Dummy)
 Baihu
 Chimera
 Cironnup
 Shiisaa
 Senri
 Unicorn
-
-
+Holy Jack Frost (Dummy)
+Holy Jack Frost (Dummy)
 Cerberus
 Orthrus
 LoupGarou
@@ -141,51 +142,51 @@ Orobas
 Cait Sith
 Dormarth
 GlasyaLabolas
-
+Beast Jack Frost (Dummy)
 Bugs
 Nue
 Bicorn
 Mothman
 Fenrir
 Peallaidh
-
-
+wilder Jack Frost (Dummy)
+wilder Jack Frost (Dummy)
 Hayataro
-
-
+Holy Jack Frost (Dummy)
+Holy Jack Frost (Dummy)
 Flaemis
 Aquans
 Aeros
 Erthys
-
-
-
-
-
-
-
-
-
-
-
-
+Element Jack Frost (Dummy)
+Element Jack Frost (Dummy)
+Element Jack Frost (Dummy)
+Element Jack Frost (Dummy)
+mitama saki mitama
+mitama kushi mitama
+mitama nigi mitama
+mitama ara mitama
+mitama saki mitama
+mitama saki mitama
+mitama saki mitama
+mitama Jack Frost (Dummy)
 Black Ooze
 Legion
 Slime
 Mad Gasser
 Turbo Granny
-
-
+Foul Jack Frost (Dummy)
+Foul Jack Frost (Dummy)
 Shiva
 Mot
 ZaouGongen
 Asura
 Chernobog
 Dionysos
-
-
-
-
+Fury Jack Frost (Dummy)
+Fury Jack Frost (Dummy)
+Fury Jack Frost (Dummy)
+Fury Jack Frost (Dummy)
 Danu
 Inanna
 Kali
@@ -194,10 +195,10 @@ Skadi
 Isis
 KikuriHime
 Hariti
-
+Lady Jack Frost (Dummy)
 Nuwa (Snake)
 Alilat
-
+Lady Jack Frost (Dummy)
 Thor
 Futsunushi
 Attis
@@ -205,20 +206,20 @@ Bishamonten
 Jikokuten
 Koumokuten
 Zouchouten
-
-
-
-
+Kishin Jack Frost (Dummy)
+Kishin Jack Frost (Dummy)
+Kishin Jack Frost (Dummy)
+Kishin Jack Frost (Dummy)
 Arahabaki
 Oyamatsumi
 KushinadaHime
 SukunaHikona
 Okuninushi
 TakeMinakata
-
-
-
-
+Kunitsu Jack Frost (Dummy)
+Kunitsu Jack Frost (Dummy)
+Kunitsu Jack Frost (Dummy)
+Kunitsu Jack Frost (Dummy)
 Ganesha
 Siegfried
 Valkyrie
@@ -226,9 +227,9 @@ Yoshitsune
 Neko Shogun
 Nezha Taizi
 Masakado
-
-
-
+Wargod Jack Frost (Dummy)
+Wargod Jack Frost (Dummy)
+Vile Jack Frost (Lahmu)
 Mada
 Girimekhala
 Pazuzu
@@ -237,7 +238,7 @@ Baphomet
 Lahmu
 Saturnus
 Tzitzimitl
-
+Wargod Jack Frost (Dummy)
 Abdiel
 Metatron
 Michael
@@ -250,8 +251,8 @@ Camael
 Melchizedek
 Mastema
 Armaiti
-
-
+Herald Jack Frost (Dummy)
+Herald Jack Frost (Dummy)
 Throne
 Dominion
 Power
@@ -259,9 +260,9 @@ Principality
 Archangel
 Angel
 Cherub
-
-
-
+Divine Jack Frost (Dummy)
+Divine Jack Frost (Dummy)
+Divine Jack Frost (Dummy)
 Abdiel
 Adramelech
 Flauros
@@ -274,25 +275,25 @@ Andras
 Decarabia
 Halphas
 Azazel
-
-
+Fallen Jack Frost (Dummy)
+Fallen Jack Frost (Dummy)
 Garuda
 Zhuque
 Yatagarasu
 Jatayu
 Feng Huang
 Thunderbird
-
-
-
+Avian Jack Frost (Dummy)
+Avian Jack Frost (Dummy)
+Avian Jack Frost (Dummy)
 Anzu
 Zhen
 Muu Shuwuu
 Onmoraki
 Gurulu
-
-
-
+Raptor Jack Frost (Dummy)
+Raptor Jack Frost (Dummy)
+Raptor Jack Frost (Dummy)
 Cleopatra
 Rangda
 Dakini
@@ -304,10 +305,10 @@ Manananggal
 Lamia
 Mermaid
 Leanan Sidhe
-
-
-
-
+Femme Jack Frost (Dummy)
+Femme Jack Frost (Dummy)
+Femme Jack Frost (Dummy)
+Femme Jack Frost (Dummy)
 OngyoKI
 ShikiOuji
 SuiKi
@@ -318,16 +319,16 @@ IpponDatara
 Daemon
 Oni
 Karasu Tengu
-
-
+Brute Jack Frost (Dummy)
+Brute Jack Frost (Dummy)
 Hecatoncheires
 Loa
 Rakshasa
 Turudak
 Macabre
 Gremlin
-
-
+Jaki Jack Frost (Dummy)
+Jaki Jack Frost (Dummy)
 KayaNoHime
 Tsuchigumo
 Narcissus
@@ -336,18 +337,18 @@ Koropokkur
 Sudama
 Kodama
 Gogmagog
-
-
-
+Jirae Jack Frost (Dummy)
+Jirae Jack Frost (Dummy)
+Jirae Jack Frost (Dummy)
 Pisaca
 Kumbhanda
 Poltergeist
 Obariyon
 Preta
 Kudlak
-
-
-
+Haunt Jack Frost (Dummy)
+Haunt Jack Frost (Dummy)
+Haunt Jack Frost (Dummy)
 Trumpeter
 Mother Harlot
 Black Rider
@@ -358,239 +359,583 @@ Hell Biker
 Daisoujou
 Pale Rider
 Matador
-
-
-
-
-
+jack frost (diff pic)
+jack frost (diff pic)
+jack frost (diff pic)
+jack frost (diff pic)
+Tao (diff from 365)
 Tao
 Yoko
-
-
-
-Shujinkou Nahobino
-
-
-
-
-
-
-
-
-
-
+jack frost (diff pic)
+jack frost (diff pic)
+jack frost (diff pic)
+jack frost (diff pic)
+mitama kushi mitama
+mitama kushi mitama
+mitama kushi mitama
+mitama Nigi mitama
+mitama Nigi mitama
+mitama Nigi mitama
+mitama Ara mitama
+mitama Ara mitama
+mitama Ara mitama
+jack frost (diff pic)
 Hare of Inaba
-
-
-
+jack frost (diff pic)
+jack frost (diff pic)
+jack frost (diff pic)
 Kinmamon
-Onyankopon
+Onyankon
 Amabie
-
-
-
+jack frost (diff pic)
+jack frost (diff pic)
+jack frost (diff pic)
 Lilith
-Agrat bat Mahlat
 Naamah
-Eisheth Zenunim
+Naamah
+Eisheth
+jack frost (diff pic)
+jack frost (diff pic)
+jack frost (diff pic)
+jack frost (diff pic)
+jack frost (fairy pic)
 Holy Hayataro (yoko profile pic)
 Femme Cleopatra (tao profile pic)
 Genma Cu Chulainn (Yuzuru profile pic)
 Fairy jack Forst (Tentacle)
 Haunt Preta (ichiro profile pic)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Jaki Turdak
+Brute Daemon
+Tyrant Beelzebub
+Brute Daemon
+Shohei Yakumo (pixie profile pic)
+Vile Jack Frost (Lahmu)
+Megami Anahita
+Drake Aitvaras
+Megami Fortuna
+Fairy High Pixie
+Jirae Kaya-no-Hime
+Fallen Adramelech (Nuwa)
+Fallen decarabria
+Foul legion
+Tyrant King Frost (Dummy)
+Tyrant Amon Frost (Dummy)
+Kunitsu Sukuna-Hikona
+Megami Idun
+Jirae Kaya-no-Hime (Dummy)
+Vile Lahmu's Tentacle
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Khonsu)
+Megami Idun
+Megami Idun
+Fairy Jack Frost (Dummy)
+Brute Daemon
+Haunt Preta
+Drake Hydra
+Fallen Eligor
+Fallen Andras
+Lady Nuwa
+Brute Daemon
+Snake Raja
+Snake Naga
+Raptor Anzu
+Femme Lamia
+Vile Lahmu
+Drake Aitvaras
+Fallen Andras
+Jaki Rakshasa
+Night Incubus
+Brute Oni
+Femme Manananggal
+Brute Shiki-Oui
+Jirae Tsuchigumo
+Beast Loup-garou
+Genma Fionn mac Cumhail
+Vile Lahmu
+Vile Lahmu (Final)
+Tyrant Surt
+Lady Ishtar
+Lady Ishtar
+Lady Ishtar
+Lady Ishtar
+Lady Ishtar
+Lady Ishtar
+Lady Ishtar
+Lady Ishtar
+Tyrant Arioch
+Fallen Decarabria
+Meta Shohei Yakumo
+Fury Chernobog
+Herald Abdiel
+Drake Vasuki
+Deity Zeus
+Deity Odin
+Herald Melchizedek
+Herald Sraosha
+Lady Alilat
+Fallen Flauros
+Fallen Ose
+Herald Melchizedek
+Herald Metatron
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Khonsu)(Dummy)
+Fairy Jack Frost (Moloch)(Dummy)
+Fairy Jack Frost (King Frost)(Dummy)
+Fairy Jack Frost (Surtr)(Big)(Dummy)
+Fairy Jack Frost (Abbadon)(Dummy)
+Fairy Jack Frost (Moloch)(Dummy)
+Fairy Jack Frost (Belfagor)(Dummy)
+Fairy Jack Frost (Huang Long)(Dummy)
+Fairy Jack Frost (Chimera)(Dummy)
+Fairy Jack Frost (Arabaki)(Dummy)
+Fairy Jack Frost (oyamatsumi)(Dummy)
+Fairy Jack Frost (girimekhala)(Dummy)
+Fairy Jack Frost (thunderbird)(Dummy)
+Fairy Jack Frost (hecatoncheries)(Dummy)
+Fairy Jack Frost (King Frost)(Dummy)
+Fairy Jack Frost (Dummy)
+Deity Khonsu
+Avatar Anubis
+Deity Thoth
+Deity Khonsu Ra
 Nahobino Nuwa
-
-
-
-
+Thunder Bit
+Thunder Bit
+Thunder Bit
+Thunder Bit
 Nahobino Abdiel
-
-
-
-Matter Abdiel
-
-
-
-
+Depraved Arm
+Depraved Wing
+Nahobino Tsukuyomi
+Matter Lucifer
+Nahobino Tsukuyomi
+Matter Brimstone Star
+Matter Cocytus Star
+Matter Morning Star
 Matter Lucifer
 Matter Lucifer
 Chaos Demi fiend
 Matter Lucifer
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Matter Brimstone Star
+Matter Cocytus Star
+Nahobino Tsukuyomi
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Dragon Quing Long
 Tiamat
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fiend Matador
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Tyrant Moloch
+Fiend Trumpeter
+Fiend Mother Harlot
+Tyrant Surt
+Fiend Daisoujou
+Tyrant Belphagor
+Fairy Jack Frost (Dummy)
+Tyrant Beelzebub
+Kunitsu Sukuna-Hikona
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
 Tehom
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost
+Avatar Makami
+Avian Feng Huang
+Snake Naga Raja
+Vile Mishaguji
+Raptor Anzu
+Night Kaiwan
+Genma Hanuman
+Fairy Oberon
+Femme Mermaid
+Lady Isis
+Genma Cu Chulainn
+Femme Dakini
+Fairy Silky
+Megami Sarasvati
+Kunitsu Kushinada-Hime
+Snake Yurlungur
+Megami Scathach
+Lady Cybele
+Snake Yamata-no-Orochi
+Foul Slime
+Fairy Pixie
+Avian Yatagarasu
+Divine Throne
+Deity Mitra
+Femme Rangda
+Lady Skadi
+Deity Atavaka
+Avatar Barong
+Wargod Siegfried
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Jirae Kaya-no-hime
+Fairy Jack Frost (Depraved Wing)
+Fairy Jack Frost (Nahobino Abdiel)
+Fairy Jack Frost (No Model)
+Fairy Jack Frost (No Model)
+Fairy Jack Frost (Thunder Bit)
+Fairy Jack Frost (No Model)
+Fairy Jack Frost (No Model)
+Fairy Jack Frost (No Model)
+Fairy Jack Frost (Nahobino Nuwa)
+Fairy Jack Frost (Demi-Fiend)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Yoma Mandrake
+Raptor Onmoraki
+Yoma Agathion
+Beast Cait Sith
+Drake Aitvaras
+Femme Leanan Sidhe
+Haunt Preta
+Brute Daemon
+Haunt Preta
+Divine Angel
+Jirae Tsuchigumo
+Raptor Zhen
+Night Mokoi
+Jirae Sudama
+Haunt Obariyon
+Brute Ippon-Datara
+Jaki Turdak
+Megami Ame-No-Uzume
+Megami Kikuri-Hime
+Jirae Kaya-no-Hime
+Yoma Koppa Tengu
+Brute Oni
+Fallen Berith
+Brute Shiki-Ouji
+Divine Principality
+Jirae Hua Po
+Snake Naga
+Wilder Mothman
+Haunt Poltergeist
+Deity Toth
+Femme Manananggal
+Jaki Loa
+Haunt Pisaca
+Drake Basilisk
+Dragon Quetzalcoatl
+Foul Black Ooze
+Femme Yaksini
+Fairy Setanta
+Fairy Silky
+Fairy Kelpie
+Fallen Eligor
+Vile Baphomet
+Fallen Fornerus
+Night Lilim
+Lady Hariti
+Holy Shisaa
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Vile Pazuzu
+Avian Jatayu
+Megami Anahita
+Tyrant Belphagor
+Kishin Zouchouten
+Yoma Mandrake
+Jirae Narcissus
+Avian Thunderbird
+Haunt Kumbhanda
+Tyrant Loki
+Holy Cironnup
+Holy Chimera
+Jaki Hecatoncheires
+Herald Camael
+Divine Power
+Tyrant Moloch
+Beast Probas
+Fallen Flauros
+Kishin Koumokuten
+Brute Shiki-Ouji
+Tyrant King Frost
+Kunitsu Okuninushi
+Kunitsu Sukuna-Hikona
+Kunitsu Take-Minakata
+Kunitsu Oyamatsumi
+Kunitsu Oyamatsumi
+Vile Girimekhala
+Kunitsu Arahabaki
+Fury Asura
+Tyrant Mithras
+Tyrant Amon
+Tyrant Abbadon
+Genma Fionn
+Herald Uriel
+Herald Raphael
+Herald Gabriel
+Deity Baal
+Deity Zeus
+Dragon Huang Long
+Tyrant Belial
+Herald Michael
+Megami Maria
+Lady Danu
+Lady Inanna
+Fury Shiva
+Dragon Quing Long
+Avian Zhuque
+Holy Baihu
+Dragon Xuanwu
+Brute Sui-Ki
+Brute Kin-Ki
+Brute Fuu-Ki
+Brute Ongyo-Ki
+Dragon Quing Long
+Avian Zhuque
+Holy Baihu
+Dragon Xuanwu
+Kishin Jikokuten
+Kishin Bishamonten
+Kishin Zouchouten
+Kishin Koumokuten
+Kishin Jikokuten
+Kishin Bishamonten
+Deity Horus
+Avian Garuda
+Femme Leanan Sidhe
+Brute Ippon-Datara
+Yoma Apsaras
+Yoma Agathion
+Drake Seth
+Wargod Ganesha
+Femme Kali
+Femme Dakini
+Snake Ananta
+Megami Parvati
+Genma Amanozako
+Fury Zaou-Gongen
+Genma Kurama Tengu
+Divine Principality
+Night Lilim
+Fury Dionysus
+Night Black Frost
+Wargod Futsunishi
+Fallen Adramelech
+Yoma Mandrake
+Fairy Jack-o'-Lantern
+Fairy Jack Frost
+Brute Oni
+Haunt Preta
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Tyrant King Frost
+Fury Shiva
+Kishin Attis
+Yoma Mandrake
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Haunt Preta (Dummy)
+Haunt Preta (Dummy)
+Haunt Preta (Dummy)
+Haunt Preta (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fiend Matador
+Fiend Daisoujou
+Fiend Hell Biker
+Fiend White Rider
+Fiend Red Rider
+Fiend Black Rider
+Fiend Pale Rider
+Fiend Mother Harlot
+Fiend Trumpeter
+Megami Artemis
+Femme Cleopatra
+Tyrant Mephisto
+Dragon Quetzalcoatl
+King Demi-fiend
+Divine Dominion
+Divine Power
+Foul Legion
+Jaki Loa
+Foul Legion
+Beast Cerberus
+Fairy Jack Frost
+Fairy Pixie
+Kishin Thor
+Vile Girimekhala
+Megami Pervati
+Cu Chulainn
+Fairy Jack Frost (Dummy)
 
 
 
@@ -793,143 +1138,955 @@ Tehom
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Yuzuru Atsuta
+Ichiro Dazai
+Tao Isonokami
+Yuzuru Atsuta
+Tao Isonokami
+Tao (pixie)
+Tao (pixie)
+Yoko Hiromine
+Yoko Hiromine 
+Yoko Hiromine
+Yoko Hiromine
+Demi-Fiend
+Yuzuru AtsutaNone
+Satan
+Lucifer
+Deity Jack Frost (Dummy)
+Dagda
+Deity Jack Frost (Dummy)
+Deity Jack Frost (Dummy)
+Khonsu
+Zeus
+Odin
+Deity Jack Frost (Dummy)
+Mitra
+Atavaka
+Horus
+Thoth
+Khonsu Ra
+Vishnu
+Baal
+Deity Jack Frost (Dummy)
+Demeter
+Anahita
+Lakshmi
+Norn
+Idun
+Sarasvati
+Ishtar
+Scathach
+Parvati
+AmeNoUzume
+Fortuna
+Maria
+Artemis
+Konohana Sakuya
+Megami Jack Frost (Dummy)
+Hanuman
+Fionn Mac Cumhaill
+Cu Chulainn
+Kurama Tengu
+Amanozako
+Genma amanozako_runaway
+Kresnik
+Anansi
+Koppa Tengu
+Apsaras
+Agathion
+Mandrake
+Dis
+Efreet
+Genma Jack Frost (Dummy)
+Genma Jack Frost (Dummy)
+Genma Jack Frost (Dummy)
+Titania
+Oberon
+Silky
+Setanta
+Kelpie
+High Pixie
+JackO'Lantern
+Jack Frost
+Pixie
+Nahobeeho
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Queen Medb
+Succubus
+Kaiwan
+Lilim
+Incubus
+Mokoi
+Sandman
+Night lilith
+Black Frost
+Night Jack Frost (Dummy)
+Night Jack Frost (Dummy)
+Nuwa (Normal)
+Amon
+Mara
+Mephisto
+Chi You
+Surt
+Beelzebub
+Arioch
+Belial
+Abaddon
+Moloch
+Belphegor
+King Frost
+Mithras
+Loki
+Tyrant Jack Frost (Dummy)
+Tyrant Jack Frost (Dummy)
+Tyrant Jack Frost (Dummy)
+Tyrant Jack Frost (Dummy)
+Huang Long
+Quetzalcoatl
+Qing Long
+Xuanwu
+Ananta
+Vritra
+Nyami Nyami
+Dragon Jack Frost (Dummy)
+Dragon Jack Frost (Dummy)
+YamataNoOrochi
+Naga Raja
+Yurlungur
+Naga
+Nozuchi
+Vouivre
+Snake Jack Frost (Dummy)
+Snake Jack Frost (Dummy)
+Vasuki
+Seth
+Basilisk
+Aitvaras
+Hydra
+Fafnir
+Zhu Tun She
+Samael
+Barong
+Anubis
+Makami
+Xiezhai
+Avatar Jack Frost (Dummy)
+Avatar Jack Frost (Dummy)
+Avatar Jack Frost (Dummy)
+Baihu
+Chimera
+Cironnup
+Shiisaa
+Senri
+Unicorn
+Holy Jack Frost (Dummy)
+Holy Jack Frost (Dummy)
+Cerberus
+Orthrus
+LoupGarou
+Nekomata
+Inugami
+Orobas
+Cait Sith
+Dormarth
+GlasyaLabolas
+Beast Jack Frost (Dummy)
+Bugs
+Nue
+Bicorn
+Mothman
+Fenrir
+Peallaidh
+wilder Jack Frost (Dummy)
+wilder Jack Frost (Dummy)
+Hayataro
+Holy Jack Frost (Dummy)
+Holy Jack Frost (Dummy)
+Flaemis
+Aquans
+Aeros
+Erthys
+Element Jack Frost (Dummy)
+Element Jack Frost (Dummy)
+Element Jack Frost (Dummy)
+Element Jack Frost (Dummy)
+mitama saki mitama
+mitama kushi mitama
+mitama nigi mitama
+mitama ara mitama
+mitama saki mitama
+mitama saki mitama
+mitama saki mitama
+mitama Jack Frost (Dummy)
+Black Ooze
+Legion
+Slime
+Mad Gasser
+Turbo Granny
+Foul Jack Frost (Dummy)
+Foul Jack Frost (Dummy)
+Shiva
+Mot
+ZaouGongen
+Asura
+Chernobog
+Dionysos
+Fury Jack Frost (Dummy)
+Fury Jack Frost (Dummy)
+Fury Jack Frost (Dummy)
+Fury Jack Frost (Dummy)
+Danu
+Inanna
+Kali
+Cybele
+Skadi
+Isis
+KikuriHime
+Hariti
+Lady Jack Frost (Dummy)
+Nuwa (Snake)
+Alilat
+Lady Jack Frost (Dummy)
+Thor
+Futsunushi
+Attis
+Bishamonten
+Jikokuten
+Koumokuten
+Zouchouten
+Kishin Jack Frost (Dummy)
+Kishin Jack Frost (Dummy)
+Kishin Jack Frost (Dummy)
+Kishin Jack Frost (Dummy)
+Arahabaki
+Oyamatsumi
+KushinadaHime
+SukunaHikona
+Okuninushi
+TakeMinakata
+Kunitsu Jack Frost (Dummy)
+Kunitsu Jack Frost (Dummy)
+Kunitsu Jack Frost (Dummy)
+Kunitsu Jack Frost (Dummy)
+Ganesha
+Siegfried
+Valkyrie
+Yoshitsune
+Neko Shogun
+Nezha Taizi
+Masakado
+Wargod Jack Frost (Dummy)
+Wargod Jack Frost (Dummy)
+Vile Jack Frost (Lahmu)
+Mada
+Girimekhala
+Pazuzu
+Mishaguji
+Baphomet
+Lahmu
+Saturnus
+Tzitzimitl
+Wargod Jack Frost (Dummy)
+Abdiel
+Metatron
+Michael
+Gabriel
+Sraosha
+Raphael
+Sandalphon
+Uriel
+Camael
+Melchizedek
+Mastema
+Armaiti
+Herald Jack Frost (Dummy)
+Herald Jack Frost (Dummy)
+Throne
+Dominion
+Power
+Principality
+Archangel
+Angel
+Cherub
+Divine Jack Frost (Dummy)
+Divine Jack Frost (Dummy)
+Divine Jack Frost (Dummy)
+Abdiel
+Adramelech
+Flauros
+Nebiros
+Berith
+Ose
+Eligor
+Forneus
+Andras
+Decarabia
+Halphas
+Azazel
+Fallen Jack Frost (Dummy)
+Fallen Jack Frost (Dummy)
+Garuda
+Zhuque
+Yatagarasu
+Jatayu
+Feng Huang
+Thunderbird
+Avian Jack Frost (Dummy)
+Avian Jack Frost (Dummy)
+Avian Jack Frost (Dummy)
+Anzu
+Zhen
+Muu Shuwuu
+Onmoraki
+Gurulu
+Raptor Jack Frost (Dummy)
+Raptor Jack Frost (Dummy)
+Raptor Jack Frost (Dummy)
+Cleopatra
+Rangda
+Dakini
+Atropos
+Yakshini
+Lachesis
+Clotho
+Manananggal
+Lamia
+Mermaid
+Leanan Sidhe
+Femme Jack Frost (Dummy)
+Femme Jack Frost (Dummy)
+Femme Jack Frost (Dummy)
+Femme Jack Frost (Dummy)
+OngyoKI
+ShikiOuji
+SuiKi
+FuuKI
+KinKI
+Azumi
+IpponDatara
+Daemon
+Oni
+Karasu Tengu
+Brute Jack Frost (Dummy)
+Brute Jack Frost (Dummy)
+Hecatoncheires
+Loa
+Rakshasa
+Turudak
+Macabre
+Gremlin
+Jaki Jack Frost (Dummy)
+Jaki Jack Frost (Dummy)
+KayaNoHime
+Tsuchigumo
+Narcissus
+Hua Po
+Koropokkur
+Sudama
+Kodama
+Gogmagog
+Jirae Jack Frost (Dummy)
+Jirae Jack Frost (Dummy)
+Jirae Jack Frost (Dummy)
+Pisaca
+Kumbhanda
+Poltergeist
+Obariyon
+Preta
+Kudlak
+Haunt Jack Frost (Dummy)
+Haunt Jack Frost (Dummy)
+Haunt Jack Frost (Dummy)
+Trumpeter
+Mother Harlot
+Black Rider
+Red Rider
+White Rider
+Alice
+Hell Biker
+Daisoujou
+Pale Rider
+Matador
+jack frost (diff pic)
+jack frost (diff pic)
+jack frost (diff pic)
+jack frost (diff pic)
+Tao (diff from 365)
+Tao
+Yoko
+jack frost (diff pic)
+jack frost (diff pic)
+jack frost (diff pic)
+jack frost (diff pic)
+mitama kushi mitama
+mitama kushi mitama
+mitama kushi mitama
+mitama Nigi mitama
+mitama Nigi mitama
+mitama Nigi mitama
+mitama Ara mitama
+mitama Ara mitama
+mitama Ara mitama
+jack frost (diff pic)
+Hare of Inaba
+jack frost (diff pic)
+jack frost (diff pic)
+jack frost (diff pic)
+Kinmamon
+Onyankon
+Amabie
+jack frost (diff pic)
+jack frost (diff pic)
+jack frost (diff pic)
+Lilith
+Naamah
+Naamah
+Eisheth
+jack frost (diff pic)
+jack frost (diff pic)
+jack frost (diff pic)
+jack frost (diff pic)
+jack frost (fairy pic)
+Holy Hayataro (yoko profile pic)
+Femme Cleopatra (tao profile pic)
+Genma Cu Chulainn (Yuzuru profile pic)
+Fairy jack Forst (Tentacle)
+Haunt Preta (ichiro profile pic)
+Jaki Turdak
+Brute Daemon
+Tyrant Beelzebub
+Brute Daemon
+Shohei Yakumo (pixie profile pic)
+Vile Jack Frost (Lahmu)
+Megami Anahita
+Drake Aitvaras
+Megami Fortuna
+Fairy High Pixie
+Jirae Kaya-no-Hime
+Fallen Adramelech (Nuwa)
+Fallen decarabria
+Foul legion
+Tyrant King Frost (Dummy)
+Tyrant Amon Frost (Dummy)
+Kunitsu Sukuna-Hikona
+Megami Idun
+Jirae Kaya-no-Hime (Dummy)
+Vile Lahmu's Tentacle
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Khonsu)
+Megami Idun
+Megami Idun
+Fairy Jack Frost (Dummy)
+Brute Daemon
+Haunt Preta
+Drake Hydra
+Fallen Eligor
+Fallen Andras
+Lady Nuwa
+Brute Daemon
+Snake Raja
+Snake Naga
+Raptor Anzu
+Femme Lamia
+Vile Lahmu
+Drake Aitvaras
+Fallen Andras
+Jaki Rakshasa
+Night Incubus
+Brute Oni
+Femme Manananggal
+Brute Shiki-Oui
+Jirae Tsuchigumo
+Beast Loup-garou
+Genma Fionn mac Cumhail
+Vile Lahmu
+Vile Lahmu (Final)
+Tyrant Surt
+Lady Ishtar
+Lady Ishtar
+Lady Ishtar
+Lady Ishtar
+Lady Ishtar
+Lady Ishtar
+Lady Ishtar
+Lady Ishtar
+Tyrant Arioch
+Fallen Decarabria
+Meta Shohei Yakumo
+Fury Chernobog
+Herald Abdiel
+Drake Vasuki
+Deity Zeus
+Deity Odin
+Herald Melchizedek
+Herald Sraosha
+Lady Alilat
+Fallen Flauros
+Fallen Ose
+Herald Melchizedek
+Herald Metatron
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Khonsu)(Dummy)
+Fairy Jack Frost (Moloch)(Dummy)
+Fairy Jack Frost (King Frost)(Dummy)
+Fairy Jack Frost (Surtr)(Big)(Dummy)
+Fairy Jack Frost (Abbadon)(Dummy)
+Fairy Jack Frost (Moloch)(Dummy)
+Fairy Jack Frost (Belfagor)(Dummy)
+Fairy Jack Frost (Huang Long)(Dummy)
+Fairy Jack Frost (Chimera)(Dummy)
+Fairy Jack Frost (Arabaki)(Dummy)
+Fairy Jack Frost (oyamatsumi)(Dummy)
+Fairy Jack Frost (girimekhala)(Dummy)
+Fairy Jack Frost (thunderbird)(Dummy)
+Fairy Jack Frost (hecatoncheries)(Dummy)
+Fairy Jack Frost (King Frost)(Dummy)
+Fairy Jack Frost (Dummy)
+Deity Khonsu
+Avatar Anubis
+Deity Thoth
+Deity Khonsu Ra
+Nahobino Nuwa
+Thunder Bit
+Thunder Bit
+Thunder Bit
+Thunder Bit
+Nahobino Abdiel
+Depraved Arm
+Depraved Wing
+Nahobino Tsukuyomi
+Matter Lucifer
+Nahobino Tsukuyomi
+Matter Brimstone Star
+Matter Cocytus Star
+Matter Morning Star
+Matter Lucifer
+Matter Lucifer
+Chaos Demi fiend
+Matter Lucifer
+Matter Brimstone Star
+Matter Cocytus Star
+Nahobino Tsukuyomi
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Dragon Quing Long
+Tiamat
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fiend Matador
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Tyrant Moloch
+Fiend Trumpeter
+Fiend Mother Harlot
+Tyrant Surt
+Fiend Daisoujou
+Tyrant Belphagor
+Fairy Jack Frost (Dummy)
+Tyrant Beelzebub
+Kunitsu Sukuna-Hikona
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Tehom
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost
+Avatar Makami
+Avian Feng Huang
+Snake Naga Raja
+Vile Mishaguji
+Raptor Anzu
+Night Kaiwan
+Genma Hanuman
+Fairy Oberon
+Femme Mermaid
+Lady Isis
+Genma Cu Chulainn
+Femme Dakini
+Fairy Silky
+Megami Sarasvati
+Kunitsu Kushinada-Hime
+Snake Yurlungur
+Megami Scathach
+Lady Cybele
+Snake Yamata-no-Orochi
+Foul Slime
+Fairy Pixie
+Avian Yatagarasu
+Divine Throne
+Deity Mitra
+Femme Rangda
+Lady Skadi
+Deity Atavaka
+Avatar Barong
+Wargod Siegfried
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Jirae Kaya-no-hime
+Fairy Jack Frost (Depraved Wing)
+Fairy Jack Frost (Nahobino Abdiel)
+Fairy Jack Frost (No Model)
+Fairy Jack Frost (No Model)
+Fairy Jack Frost (Thunder Bit)
+Fairy Jack Frost (No Model)
+Fairy Jack Frost (No Model)
+Fairy Jack Frost (No Model)
+Fairy Jack Frost (Nahobino Nuwa)
+Fairy Jack Frost (Demi-Fiend)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Yoma Mandrake
+Raptor Onmoraki
+Yoma Agathion
+Beast Cait Sith
+Drake Aitvaras
+Femme Leanan Sidhe
+Haunt Preta
+Brute Daemon
+Haunt Preta
+Divine Angel
+Jirae Tsuchigumo
+Raptor Zhen
+Night Mokoi
+Jirae Sudama
+Haunt Obariyon
+Brute Ippon-Datara
+Jaki Turdak
+Megami Ame-No-Uzume
+Megami Kikuri-Hime
+Jirae Kaya-no-Hime
+Yoma Koppa Tengu
+Brute Oni
+Fallen Berith
+Brute Shiki-Ouji
+Divine Principality
+Jirae Hua Po
+Snake Naga
+Wilder Mothman
+Haunt Poltergeist
+Deity Toth
+Femme Manananggal
+Jaki Loa
+Haunt Pisaca
+Drake Basilisk
+Dragon Quetzalcoatl
+Foul Black Ooze
+Femme Yaksini
+Fairy Setanta
+Fairy Silky
+Fairy Kelpie
+Fallen Eligor
+Vile Baphomet
+Fallen Fornerus
+Night Lilim
+Lady Hariti
+Holy Shisaa
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Vile Pazuzu
+Avian Jatayu
+Megami Anahita
+Tyrant Belphagor
+Kishin Zouchouten
+Yoma Mandrake
+Jirae Narcissus
+Avian Thunderbird
+Haunt Kumbhanda
+Tyrant Loki
+Holy Cironnup
+Holy Chimera
+Jaki Hecatoncheires
+Herald Camael
+Divine Power
+Tyrant Moloch
+Beast Probas
+Fallen Flauros
+Kishin Koumokuten
+Brute Shiki-Ouji
+Tyrant King Frost
+Kunitsu Okuninushi
+Kunitsu Sukuna-Hikona
+Kunitsu Take-Minakata
+Kunitsu Oyamatsumi
+Kunitsu Oyamatsumi
+Vile Girimekhala
+Kunitsu Arahabaki
+Fury Asura
+Tyrant Mithras
+Tyrant Amon
+Tyrant Abbadon
+Genma Fionn
+Herald Uriel
+Herald Raphael
+Herald Gabriel
+Deity Baal
+Deity Zeus
+Dragon Huang Long
+Tyrant Belial
+Herald Michael
+Megami Maria
+Lady Danu
+Lady Inanna
+Fury Shiva
+Dragon Quing Long
+Avian Zhuque
+Holy Baihu
+Dragon Xuanwu
+Brute Sui-Ki
+Brute Kin-Ki
+Brute Fuu-Ki
+Brute Ongyo-Ki
+Dragon Quing Long
+Avian Zhuque
+Holy Baihu
+Dragon Xuanwu
+Kishin Jikokuten
+Kishin Bishamonten
+Kishin Zouchouten
+Kishin Koumokuten
+Kishin Jikokuten
+Kishin Bishamonten
+Deity Horus
+Avian Garuda
+Femme Leanan Sidhe
+Brute Ippon-Datara
+Yoma Apsaras
+Yoma Agathion
+Drake Seth
+Wargod Ganesha
+Femme Kali
+Femme Dakini
+Snake Ananta
+Megami Parvati
+Genma Amanozako
+Fury Zaou-Gongen
+Genma Kurama Tengu
+Divine Principality
+Night Lilim
+Fury Dionysus
+Night Black Frost
+Wargod Futsunishi
+Fallen Adramelech
+Yoma Mandrake
+Fairy Jack-o'-Lantern
+Fairy Jack Frost
+Brute Oni
+Haunt Preta
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Tyrant King Frost
+Fury Shiva
+Kishin Attis
+Yoma Mandrake
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Haunt Preta (Dummy)
+Haunt Preta (Dummy)
+Haunt Preta (Dummy)
+Haunt Preta (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fairy Jack Frost (Dummy)
+Fiend Matador
+Fiend Daisoujou
+Fiend Hell Biker
+Fiend White Rider
+Fiend Red Rider
+Fiend Black Rider
+Fiend Pale Rider
+Fiend Mother Harlot
+Fiend Trumpeter
+Megami Artemis
+Femme Cleopatra
+Tyrant Mephisto
+Dragon Quetzalcoatl
+King Demi-fiend
+Divine Dominion
+Divine Power
+Foul Legion
+Jaki Loa
+Foul Legion
+Beast Cerberus
+Fairy Jack Frost
+Fairy Pixie
+Kishin Thor
+Vile Girimekhala
+Megami Pervati
+Cu Chulainn
+Fairy Jack Frost (Dummy)
 
 
 
